@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajxd6t9&label=Profile%20views&color=0e75b6&style=flat" alt="pankajxd6t9" /> </p>
 
-- 🔭 I’m currently working on [PMeet](https://github.com/PanKaJxD6T9/pmeet.git)
+- 🔭 I’m currently working on [chitchat](https://github.com/PanKaJxD6T9/chitchat.git)
 
 - 🌱 I’m currently learning **NextJs and WEB3 Basics**
 
