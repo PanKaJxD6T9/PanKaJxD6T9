@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [chitchat](https://github.com/PanKaJxD6T9/chitchat.git)<br><br>🌱 I’m currently learning **NextJs and WEB3 Basics**<br><br>💬 Ask me about **MERN Development**<br><br>📫 How to reach me **work.pankaj01@gmail.com**
+🌱 I’m currently learning **NextJs and WEB3 Basics**<br><br>💬 Ask me about **MERN Development**<br><br>📫 How to reach me **work.pankaj01@gmail.com**
 
 
 
